@@ -6,3 +6,4 @@ https://github.com/DanaraSuseeva/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%
 - Однако по получившимся графикам можно сказать, что, в целом, слово 'schedule' более популярное как в британском, так и в американском английском
 + "Пик" использования американского варианта ('schedule') приходится на 2000 год
 - До 1940 практически не наблюдается использование 'timetable'
+https://docs.google.com/document/d/1WAYruFzBozAeqfR7wlVF8pxO-RqXvIuMDTTHXyXcaCI/edit - гугл-док
